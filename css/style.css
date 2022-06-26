@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* cabecalho */
+
+header {
+    background: url(../imagens/background.png) 28%;
+}
+
+.nome-logo {
+    color: #fff;
+    font-weight: 500;
+}
+
+.nome-logo:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 0.9em;
+    margin-left: 1.5em;
+}
+
+.nav-link:hover {
+    color: #fff;
+    font-size: 0.9em;
+    margin-left: 1.5em;
+}
+
+.buttom-link {
+    border: 2px solid #fff;
+    border-radius: 2em;
+    font-weight: 500;
+    transition: 0.4s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.buttom-link:hover {
+    background: #efb101;
+    border: 2px solid #efb101;
+    border-radius: 2em;
+}
+
+/* cabecalho fim */
+
+/* conteudo cabecalho */
+
+.conteudo-header{
+    padding: 6em 0 8em 0;
+    color: #fff;
+}
+
+.buttom-conteudo {
+    background: #efb101;
+    padding: 0.8em 2em;
+    border-radius: 2em;
+    color: #fff;
+    font-weight: 500;
+    transition: 0.4s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.buttom-conteudo:hover {
+    padding: 1em 2.2em;
+    color: #fff;
+    text-decoration: none;
+}
+
+/* secao equipamentos */
+
+.tit-equipamentos {
+    font-size: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.buttom-card {
+    background: #efb101;
+    color: #000;
+    font-weight: 500;
+    transition: 0.4s;
+}
+
+.buttom-card:hover {
+    color: #fff;
+}
+
+.btn-sobre {
+    background: #efb101;
+    padding: 0.5em 0.9em;
+    margin-left: 5em;
+    border-radius: 2em;
+    border: none;
+    color: #fff;;
+    transition: 0.4s;
+}
+
+.btn-sobre:hover{
+    background: #ff8800;
+}
+
+#popup-status {
+    background-color: #efb101;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    display: none;
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+/* modal */
+
+.hmodal {
+    font-size: 0.9em;
+}
+
+.pmodal {
+    font-size: 0.8em;
+}
+
+.buttom-modal {
+    background: #efb101;
+    border: none;
+    padding: 0.3em 1em;
+    border-radius: 1em;
+    color: white;
+    font-weight: 500;
+    transition: 0.5s;
+}
+
+.buttom-modal:hover {
+    background: #ff8800;
+    border: none;
+    padding: 0.3em 1em;
+    border-radius: 1em;
+    color: white;
+    font-weight: 500;
+}
+
+.buttom-modal2 {
+    background: #efb101;
+    margin-left: 2.9em;
+    border: none;
+    padding: 0.3em 1em;
+    border-radius: 1em;
+    color: white;
+    font-weight: 500;
+    transition: 0.5s;
+}
+
+.buttom-modal:hover {
+    background: #ff8800;
+}
+
+#test{
+    width: 900px;
+    background: #fff;
+}
+
+.btn-default {
+    background: #003184;
+    color: #fff;
+    font-weight: 500;
+}
+
+.modal2-formatacao {
+    margin-left: -12.5em;
+}
+
+.modal2-btn {
+    margin-left: 12.5em;
+  }
+
+/* tabela */
+
+.tabela-formatacao {
+    width: 90%;
+  }
+
+.dataTables_wrapper {
+    padding: 1em;
+  }  
+
+.card-tabela {
+    width: 55rem;
+}
+
+@media screen {
+    
+}
+/* #f2cb28 */
+/* #efb101 */

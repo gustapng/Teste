@@ -1,0 +1,58 @@
+[
+
+            {
+                "id": "a7c53eb1-4f5e-4eba-9764-ad205d0891f9",
+                "equipmentModelId": "a3540227-2f0e-4362-9517-92f41dabbfdf",
+                "name": "CA-0001",
+                "foto": "https://lh5.googleusercontent.com/TFMKxEfuFUXZhDvl0etL0D1AtK7uGjz049d8Vvd5n4o8I00zL6SNQi922pRMkCAHUrNPvg2i5Xuh3KaEL_zCQgVMVRuntHUXYyo32BiD4lKXf0XzQKORFPwzPlvGstO4ag=w1280"
+            },
+            {
+                "id": "1c7e9615-cc1c-4d72-8496-190fe5791c8b",
+                "equipmentModelId": "a3540227-2f0e-4362-9517-92f41dabbfdf",
+                "name": "CA-0002",
+                "foto": "https://lh5.googleusercontent.com/vlnTv_3nO0x7OPh3FvWQXPMaVyzNKpkdBAn6oyeYZ-iRR97CFGzQB1wyaw_nx59S5W2XaDDFtZd2hVmzxN2yjlo5Nb_KJmxE6s1SSVaRmdTey8HKw5NEe4fvVGhOTYEYRA=w1280"
+            },
+            {
+                "id": "2b5796cb-21c1-480e-8886-4498ea593a65",
+                "equipmentModelId": "a3540227-2f0e-4362-9517-92f41dabbfdf",
+                "name": "CA-0003",
+                "foto": "https://lh3.googleusercontent.com/vO8sdlsJFGoEk5NLVSIfMBAFST3rE_ASiDP-sd7StK965GkzgEqEkp6LRLGCGASGBB1Qg3Gszf6T5G94R4XTnYFqWcCBz-ojn_r0SIHONi0wo5e_K6Ji6XnSz3Bs4Xq2BQ=w1280"
+            },
+            {
+                "id": "1d222cdc-01dd-4caa-8934-5351d3995cfb",
+                "equipmentModelId": "a3540227-2f0e-4362-9517-92f41dabbfdf",
+                "name": "CA-0004",
+                "foto": "https://lh4.googleusercontent.com/kHkVqkGWNba3mu-ANQdtvBuxCqRa11jXVz9KEd1rejrqCphrFJnW1Qfnokbc6QFohp2MmWGgBKff5cf5lj8L3IHvfTwpv-Ael3Ql_UpWJRy-1RANGl1QJu7kT6WV0O9vxg=w1280"
+            },
+            {
+                "id": "491b983b-950c-4a88-942d-487e99b92540",
+                "equipmentModelId": "a4b0c114-acd8-4151-9449-7d12ab9bf40f",
+                "name": "HV-1001",
+                "foto": "https://lh6.googleusercontent.com/sq2r_UhWSKjffzTtkTEY-1ljfQta4eJo918SytmzRq1xR_NdBQk1QaC4dIftm_3qdgzT-pwsdhj7r6Cza59CBVE=w1280"
+            },
+            {
+                "id": "39317fcb-79e7-4e7e-83dc-723a9b63633c",
+                "equipmentModelId": "a4b0c114-acd8-4151-9449-7d12ab9bf40f",
+                "name": "HV-1002",
+                "foto": "https://lh4.googleusercontent.com/CRhpSWY6ypsCr_gvXu1IgAfIHxoPEKUCK2_XdcxWP3OTsb8IRVVTbZ60l5tkTN6l78GEnc5fLvo9VV7buJ_V6uM=w1280"
+            },
+            {
+                "id": "c79ef1de-92f3-4edd-bd55-553056640449",
+                "equipmentModelId": "9c3d009e-0d42-4a6e-9036-193e9bca3199",
+                "name": "GT-2001",
+                "foto": "https://lh3.googleusercontent.com/7PQXbTAZUSzenqVhAxHXiFzAYG2KrUa1ul0vzwboPc3QjsIXdOH9Z_A1091vtgacTkINnmRTxLQVmZk0h5oEd7XJ2dBivGS5YRLx8CdcNCyUkCLnKgA5m_tvk6SM3iJxow=w1280"
+            },
+            {
+                "id": "b7aaba00-13f7-44a0-8bf1-bc163afcf9d8",
+                "equipmentModelId": "9c3d009e-0d42-4a6e-9036-193e9bca3199",
+                "name": "GT-2002",
+                "foto": "https://lh3.googleusercontent.com/jquHZ3OkLxwmgCdT764jUGYTrmojuT0oc5bVxR2XRcqpAbiHmCT05qUu6UVX8iZ6k6bNi5-KhJlMDPXucSvQupyVRFj3U3LnJgsR6PgogACA3FeFBfutpRec0oL56NSR3A=w1280"
+            },
+            {
+                "id": "fe2a2e11-bfa6-46b6-990b-fd8175946b7e",
+                "equipmentModelId": "9c3d009e-0d42-4a6e-9036-193e9bca3199",
+                "name": "GT-2003",
+                "foto": "https://lh6.googleusercontent.com/YUOcbL89Akln_2k9F8p4aUKV6RDIY0LgNCVZrwu7M_BKZalFU2DXpl3bOFGauPP3O4Gs2lpHidiegeuSZfJvx8ZCOwXFZ8f6dgPCxoORflfALPXI_ZMzohKJiDVSBWaBTw=w1280"
+            }
+
+]
